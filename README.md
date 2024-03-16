@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Viviana Pico.</h1>
 
-## Welcome to my GitHub profile!
+## Welcome to my GitHub!
 
 - 👀 I’m interested in Data Analytics.
 
