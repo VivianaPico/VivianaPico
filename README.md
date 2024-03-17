@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning the necessary tools to enter the world of data.
 
-
 ## 💻 Languages & Tools
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
